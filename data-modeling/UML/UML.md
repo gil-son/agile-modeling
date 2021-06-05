@@ -174,6 +174,8 @@ In the example, a class called “loan account” is depicted. Classes in class 
 ### Sources
 
 <ul>
+	
+   <li><a href="https://developer.ibm.com/articles/the-class-diagram/">IBM - Articles - The class diagram</a></li>
   <li><a href="https://creately.com/blog/diagrams/class-diagram-relationships/">Creately</a></li>
   <li><a href="http://www.dsc.ufcg.edu.br/~jacques/cursos/map/html/uml/diagramas/classes/classes3.htm">DSC - UFCG</a></li>
 </ul>
