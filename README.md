@@ -8,7 +8,7 @@
 </p>
 
 <ul>
-  <li>Diagrams</li>
+ <li><a href="https://github.com/gil-son/agile-modeling/blob/main/data-modeling/">Diagrams</a></li>
   <li>Models</li>
   <li>System Use Cases</li>
 </ul>
